@@ -11,7 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
+/* 
 @font-face {
   font-family: Clip;
   src: url("https://acupoftee.github.io/fonts/Clip.ttf");
@@ -19,10 +19,6 @@ code {
 
 body {
   background-color: #141114;
-  /* background-image: linear-gradient(335deg, black 23px, transparent 23px),
-    linear-gradient(155deg, black 23px, transparent 23px),
-    linear-gradient(335deg, black 23px, transparent 23px),
-    linear-gradient(155deg, black 23px, transparent 23px); */
   background-size: 58px 58px;
   background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px;
 }
@@ -43,7 +39,7 @@ body {
   letter-spacing: 2;
   left: 50%;
   top: 50%;
-  font-family: "Clip";
+  font-family: "Warnes", cursive;
   text-transform: uppercase;
   font-size: 6em;
   color: #ffe6ff;
@@ -220,4 +216,4 @@ body {
   to {
     opacity: 1;
   }
-}
+} */

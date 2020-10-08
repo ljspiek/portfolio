@@ -1,10 +1,10 @@
 import React from "react";
-import Neon from "./Components/Neon";
+import NeonFlux from "./Components/NeonFlux";
 
 function App() {
   return (
     <main className="App">
-      <Neon />
+      <NeonFlux />
     </main>
   );
 }
